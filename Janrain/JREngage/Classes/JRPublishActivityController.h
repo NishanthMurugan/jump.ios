@@ -36,6 +36,7 @@
 #import <MessageUI/MessageUI.h>
 #import <MessageUI/MFMailComposeViewController.h>
 #import "JRPreviewLabel.h"
+#import "JRSessionData.h"
 
 typedef enum
 {
